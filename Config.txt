@@ -1,0 +1,19 @@
+1. WiFi Module
+Pins      Connect to
+UTXD  |	  Digital I/O '10'
+GND   |   GND
+CH_PD |   3.3 V
+VCC   |   3.3 V
+URXD  |   Digital I/O '11'
+
+2. MQ-135 Gas Sensor
+GND   |   GND
+VCC   |   5V
+Analog |  A0
+Out   
+
+3. CZN 15-E Sound Sensor
+GND   |   GND
+VCC   |   5V
+Digital | Digital I/O '12'
+Out
